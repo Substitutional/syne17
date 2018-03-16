@@ -14,6 +14,8 @@ USE `classicmodels`;
 
 DROP TABLE IF EXISTS `customers`;
 
+
+
 CREATE TABLE `customers` (
   `customerNumber` int(11) NOT NULL,
   `customerName` varchar(50) NOT NULL,
