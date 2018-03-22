@@ -1,17 +1,10 @@
-<<<<<<< HEAD
-select * from products;
 
-select * from orderdetails;
-=======
->>>>>>> 2b4c505... labb 3 continued
 -- 1
 select products.productName,orderdetails.priceEach
 from
 products right join orderdetails on products.productCode = orderdetails.productCode;
 
 
-<<<<<<< HEAD
-=======
 -- 2 
 select orderNumber, sum(quantityOrdered * priceEach) as OrderValue
 from orderdetails
@@ -42,7 +35,6 @@ inner join orderNumberValue on orders.orderNumber = orderNumberValue.orderNumber
 group by customers.customerName;
 
 
->>>>>>> 2b4c505... labb 3 continued
 -- 6
 create view newspaper.publishedArticles
 as
