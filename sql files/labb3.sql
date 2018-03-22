@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> c42b39d19d3ce1fe974089904d59779c84e63ede
 -- 1
 select products.productName,orderdetails.priceEach
 from
