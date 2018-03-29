@@ -10,3 +10,4 @@ https://github.com/jakobkrabbe/jakobk.git
 https://github.com/Johannes-Palm92/JohannesP.git
 https://github.com/VeronikaBor/VeronikaB.git
 https://github.com/Substitutional/VeronicaL.git
+https://github.com/luddepantzar/LudwigPR.git
