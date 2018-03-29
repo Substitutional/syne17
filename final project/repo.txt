@@ -2,3 +2,5 @@
 https://github.com/emmio-micke/syne17-slutprojekt.git
 
 https://github.com/IdaNilsson/IdaN.git
+https://github.com/pontusdarcy/PontusL.git
+https://github.com/Linghult/JensL.git
