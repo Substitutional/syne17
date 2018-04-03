@@ -16,8 +16,5 @@ https://github.com/aldinhro/AldinH.git
 https://github.com/Sneckan/RasmusI.git
 https://github.com/L-Sven/SvenL.git
 https://github.com/joelsilfver/JoelS.git
-<<<<<<< HEAD
 https://github.com/danielmilton/DanielM.git
-=======
 https://github.com/github-selguson-se/AndreasS.git
->>>>>>> 186011eda1f4b2acd9f9be8030ea477cc1d5c03b
