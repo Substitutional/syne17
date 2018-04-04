@@ -1,0 +1,20 @@
+﻿# Klistra in en länk i https-form till ditt repo här:
+https://github.com/emmio-micke/syne17-slutprojekt.git
+
+https://github.com/IdaNilsson/IdaN.git
+https://github.com/pontusdarcy/PontusL.git
+https://github.com/Linghult/JensL.git
+https://github.com/pkfms/PatrikK.git
+https://github.com/jennybcklund/JennyB.git
+https://github.com/jakobkrabbe/jakobk.git
+https://github.com/Johannes-Palm92/JohannesP.git
+https://github.com/VeronikaBor/VeronikaB.git
+https://github.com/Substitutional/VeronicaL.git
+https://github.com/luddepantzar/LudwigPR.git
+https://github.com/DennisDemir24/DennisD.git
+https://github.com/aldinhro/AldinH.git
+https://github.com/Sneckan/RasmusI.git
+https://github.com/L-Sven/SvenL.git
+https://github.com/joelsilfver/JoelS.git
+https://github.com/danielmilton/DanielM.git
+https://github.com/github-selguson-se/AndreasS.git
