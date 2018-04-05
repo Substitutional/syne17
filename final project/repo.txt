@@ -19,3 +19,4 @@ https://github.com/joelsilfver/JoelS.git
 https://github.com/danielmilton/DanielM.git
 https://github.com/github-selguson-se/AndreasS.git
 https://github.com/gastav3/GustavA.git
+https://github.com/feuken/felix-f.git
