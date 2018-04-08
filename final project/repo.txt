@@ -21,3 +21,4 @@ https://github.com/github-selguson-se/AndreasS.git
 https://github.com/gastav3/GustavA.git
 https://github.com/feuken/felix-f.git
 https://github.com/jonteneander/JonatanN
+https://github.com/tstaaf/TimmyJS
