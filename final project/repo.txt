@@ -1,4 +1,4 @@
-﻿# Klistra in en länk i https-form till ditt repo här:
+# Klistra in en länk i https-form till ditt repo här:
 https://github.com/emmio-micke/syne17-slutprojekt.git
 
 https://github.com/IdaNilsson/IdaN.git
@@ -20,5 +20,6 @@ https://github.com/danielmilton/DanielM.git
 https://github.com/github-selguson-se/AndreasS.git
 https://github.com/gastav3/GustavA.git
 https://github.com/feuken/felix-f.git
+https://github.com/paulazhao/PaulaZ.git
 https://github.com/jonteneander/JonatanN
 https://github.com/tstaaf/TimmyJS
